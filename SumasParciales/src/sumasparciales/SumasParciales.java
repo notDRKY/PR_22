@@ -12,6 +12,7 @@
  * Desde el método main crearemos e inicializaremos un array, llamaremos a sumaParcial y
  * mostraremos el array resultante.
  * Prueba, para visualizar el cambio desde Netbeans
+ * Segunda prueba, para el repositorio remoto de GitHub.
  */
 package sumasparciales;
 
