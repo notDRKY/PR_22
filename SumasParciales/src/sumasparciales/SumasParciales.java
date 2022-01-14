@@ -44,6 +44,7 @@ public class SumasParciales {
         imprimeArray(v);
         t = sumaParcial(v);
         imprimeArray(t);
-
+        
+        System.out.println("Hello world!");
     }
 }
